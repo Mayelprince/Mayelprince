@@ -1,7 +1,5 @@
-
-# 👋 Hi, I’m PRINCE MAYEL
-
-👀 I WILL TELL YOU GUYS MORE ABOUT ME LATER
+- 👋 Hi, I’m PRINCE MAYEL
+- 👀 I WILL TELL YOU GUYS MORE ABOUT ME LATER 
 
 Visit my website: [PRINCE MAYEL](https://princeweb.onrender.com)
 <!---
